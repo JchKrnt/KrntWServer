@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kurento-chroma" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kurento-group-call" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kurento-java-spring" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kurento-magic-mirror" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kurento-one2many-call" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kurento-one2one-call" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kurento-one2one-call-advanced" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kurento-platedetector" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kurento-pointerdetector" charset="UTF-8" />
+  </component>
+</project>

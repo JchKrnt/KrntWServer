@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kurento-chroma/kurento-chroma.iml" filepath="$PROJECT_DIR$/kurento-chroma/kurento-chroma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kurento-java-spring/kurento-java-spring.iml" filepath="$PROJECT_DIR$/kurento-java-spring/kurento-java-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kurento-magic-mirror/kurento-magic-mirror.iml" filepath="$PROJECT_DIR$/kurento-magic-mirror/kurento-magic-mirror.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kurento-one2many-call/kurento-one2many-call.iml" filepath="$PROJECT_DIR$/kurento-one2many-call/kurento-one2many-call.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kurento-one2one-call/kurento-one2one-call.iml" filepath="$PROJECT_DIR$/kurento-one2one-call/kurento-one2one-call.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kurento-one2one-call-advanced/kurento-one2one-call-advanced.iml" filepath="$PROJECT_DIR$/kurento-one2one-call-advanced/kurento-one2one-call-advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kurento-platedetector/kurento-platedetector.iml" filepath="$PROJECT_DIR$/kurento-platedetector/kurento-platedetector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kurento-pointerdetector/kurento-pointerdetector.iml" filepath="$PROJECT_DIR$/kurento-pointerdetector/kurento-pointerdetector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kurento-tutorial.iml" filepath="$PROJECT_DIR$/kurento-tutorial.iml" />
+    </modules>
+  </component>
+</project>

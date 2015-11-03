@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Implementation-Version: 6.0.0
+Build-Timestamp: ${build.datetime}
+Java-Version: 1.8.0_45
+Built-By: jchsohu
+Scm-Connection: scm:git:https://github.com/Kurento/kurento-tutorial-ja
+ va/jchtest_spring
+Os-Arch: amd64
+Implementation-Vendor-Id: org.kurento.tutorial
+Java-Vendor: Oracle Corporation
+Os-Name: Linux
+Scm-Url: https://github.com/Kurento/kurento-tutorial-java/jchtest_spri
+ ng
+Os-Version: 3.16.0-38-generic
+Scm-Revision: 
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_45
+Specification-Version: 6.0.0
+Implementation-URL: http://www.kurento.org/docs/6.0.0/jchtest_spring
+

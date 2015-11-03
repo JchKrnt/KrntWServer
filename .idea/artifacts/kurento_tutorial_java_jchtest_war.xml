@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="kurento-tutorial-java-jchtest:war">
+    <output-path>$PROJECT_DIR$/kurento-tutorial-java-jchtest/target</output-path>
+    <root id="archive" name="jchtest.war">
+      <element id="artifact" artifact-name="kurento-tutorial-java-jchtest:war exploded" />
+    </root>
+  </artifact>
+</component>

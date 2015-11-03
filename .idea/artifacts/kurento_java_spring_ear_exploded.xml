@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="kurento-java-spring:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/kurento_java_spring_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="kurento-java-spring/javaeeApplication/javaEEApplication" />
+      <element id="directory" name="web.war">
+        <element id="artifact" artifact-name="kurento-java-spring:war exploded" />
+      </element>
+    </root>
+  </artifact>
+</component>
